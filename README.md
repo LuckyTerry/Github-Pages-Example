@@ -1,1 +1,1 @@
-这是 forked from beiyuu/Github-Pages-Example 的个人博客, 感谢beiyuu!
+这是我的个人博客, forked from beiyuu/Github-Pages-Example 而搭建, 感谢beiyuu!
