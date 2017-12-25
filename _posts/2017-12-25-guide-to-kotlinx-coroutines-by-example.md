@@ -1,3 +1,10 @@
+---
+layout:     post
+title:      通过示例指导kotlinx.coroutines
+category: blog
+description: 这是一个关于kotlinx.coroutines核心功能的指南，附带一系列例子。
+---
+
 # 通过示例指导kotlinx.coroutines
 
 这是一个关于kotlinx.coroutines核心功能的指南，附带一系列例子。
