@@ -8,8 +8,8 @@ layout: default
       <div class="info-card">
         <h1>LuckyTerry</h1>
         <a href="https://github.com/LuckyTerry/" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="22"/></a>
-        <a href="https://weibo.com/u/2411456325/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="https://twitter.com/tcw1018498538/" target="_blank"><img src="https://twitter.com/favicon.ico" alt="" width="22"/></a>
+        <a href="https://weibo.com/u/2411456325/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
