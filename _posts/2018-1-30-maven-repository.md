@@ -5,8 +5,6 @@ category: blog
 description: 收集常用、好用的 maven搜索 和 maven仓库 网址
 ---
 
-# Maven 中央仓库收集
-
 1、Sonatype Nexus（阿里云，强力推荐）
 
 Search/Browse Page:
